@@ -1,0 +1,1 @@
+Kirova 23 static website. Run `python3 fetch_images.py` from a computer with access to the old WordPress site. Confirm all six assets exist under assets/ before deploying to Vercel. Images are not included yet because the original host was unreachable from this environment.
